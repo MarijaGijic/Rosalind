@@ -4,4 +4,4 @@ for line in f.readlines():
     if i % 2 == 0 :
         print (line)
     i += 1 
-    # prikazuju se pasusi na parnim mesti,a
+    # prikazuju se pasusi na parnim mestima
