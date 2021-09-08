@@ -1,3 +1,5 @@
+pip install biopython
+
 from Bio import ExPASy
 from Bio import SwissProt
 
